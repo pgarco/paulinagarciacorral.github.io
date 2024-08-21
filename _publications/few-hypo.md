@@ -5,7 +5,7 @@ collection: publications
 category: conferences
 permalink: /publication/few-hypo
 #excerpt: 'This paper is about fixing template issue #693.'
-date: 2024
+date: 2024-09-01
 venue: 'Proceedings of the 4th Workshop on Computational Linguistics for
 the Political and Social Sciences'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
