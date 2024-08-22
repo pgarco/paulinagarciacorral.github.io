@@ -21,7 +21,7 @@ repository               : "paulinagarciacorral.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   name             : "Paulina Garcia Corral"
   pronouns         : # example: "she/her"  
   bio              : "PhD Researcher at the Hertie School"
@@ -75,12 +75,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  Peer-reviewed papers:
-    title: 'Peer-reviewed Papers'
-  working_papers:
-    title: 'Working Papers'    
-  on-going projects:
-    title: 'On-going Projects'
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
