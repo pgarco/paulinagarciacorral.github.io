@@ -12,7 +12,7 @@ title                    : "Paulina Garcia Corral"
 title_separator          : "-"
 name                     : &name "Paulina Garcia Corral"
 description              : &description "personal description"
-url                      : https://pgarco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://pgarco.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paulinagarciacorral.github.io/"
 
